@@ -27,4 +27,3 @@ class DocApp extends StatelessWidget {
     );
   }
 }
-// handel MaterialApp and Navigation_extension
