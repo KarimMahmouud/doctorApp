@@ -1,4 +1,4 @@
-# Flutter Advanced Course
+# Flutter DocDoc App
 
 
 ## 🎨   System Design
